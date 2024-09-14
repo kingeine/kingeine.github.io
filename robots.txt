@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kingeine.github.io/sitemap.html.gz
+Sitemap: https://kingeine.github.io/app/sitemap.html.gz
+Sitemap: https://kingeine.github.io/assets/sitemap.html.gz
+Sitemap: https://kingeine.github.io/css/sitemap.html.gz
+Sitemap: https://kingeine.github.io/includes/sitemap.html.gz
+Sitemap: https://kingeine.github.io/item/sitemap.html.gz
+Sitemap: https://kingeine.github.io/src/sitemap.html.gz
